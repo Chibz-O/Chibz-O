@@ -1,4 +1,5 @@
 👋 Hello, I’m Chibueze Okoye!
+
 🌟 About Me
 I’m passionate about data analysis and eager to dive deeper into this field. With an interest in gaining insights through data, I’m working towards building a strong foundation in data analytics. My ultimate goal? To become a skilled data analyst with a diverse portfolio of projects that span finance, retail, and the medical industry.
 
