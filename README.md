@@ -11,10 +11,13 @@ I’m excited about learning and growing in the world of data. Over the next few
 Build a portfolio of real-world data analysis projects
 Gain hands-on experience in analyzing and interpreting complex datasets
 Make a meaningful impact in industries like finance, retail, and healthcare
+
 🚀 What I’m Looking For
+
 I’m looking to collaborate on data analysis projects and expand my practical knowledge. If you’re working on a project in finance, retail, or healthcare, let’s connect! I’m eager to learn, contribute, and make an impact.
 
 📚 Always Learning
+
 While I may not have programming experience yet, I’m actively working on expanding my skills in:
 
 Data analytics tools and techniques
