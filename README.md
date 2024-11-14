@@ -27,7 +27,11 @@ I love helping and connecting with others in the field. If you have a project or
 When I’m not studying or working with data, I enjoy:
 
 🏋️ Working out
+
 ⚽ Watching football
+
 📖 Reading autobiographies
+
 📫 Get in Touch
+
 Email: chibzfr@gmail.com
