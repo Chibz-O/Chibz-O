@@ -9,7 +9,9 @@ I’m passionate about data analysis and eager to dive deeper into this field. W
 I’m excited about learning and growing in the world of data. Over the next few years, I aim to:
 
 Build a portfolio of real-world data analysis projects
+
 Gain hands-on experience in analyzing and interpreting complex datasets
+
 Make a meaningful impact in industries like finance, retail, and healthcare
 
 🚀 What I’m Looking For
